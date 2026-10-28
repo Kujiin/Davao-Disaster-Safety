@@ -1,0 +1,15 @@
+/target/
+/build/
+/dist/
+/runtime/
+/config/database.properties
+/nbproject/private/
+/.idea/
+/.vscode/
+.env
+.env.*
+*.log
+*.class
+*.tmp
+Thumbs.db
+.DS_Store

@@ -1,0 +1,6 @@
+# The database is separate from Java. Start MySQL and import sql/ddsdatabase.sql first.
+# Match these settings to YOUR installed MySQL server.
+db.url=jdbc:mysql://localhost:3306/ddsdatabase?connectionTimeZone=Asia/Manila&connectTimeout=5000&socketTimeout=15000&allowPublicKeyRetrieval=true&useSSL=false
+db.user=root
+# Enter your MySQL password after the equals sign. Blank works only if that account has no password.
+db.password=
