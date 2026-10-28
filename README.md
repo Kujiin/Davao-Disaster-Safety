@@ -6,7 +6,7 @@ Davao Disaster Safety (DDS) is a Java desktop application designed to help track
 
 | Team Member | Role and Contribution |
 | --- | --- |
-| CYRUS GABRIEL C. MACROHON (Kujiin) | **Frontend and Backend Developer** — Develops the Java Swing interface, application logic, navigation, and system functionality. |
+| CYRUS GABRIEL C. MACROHON | **Frontend and Backend Developer** — Develops the Java Swing interface, application logic, navigation, and system functionality. |
 | KIERBY M. ANTONIO | **Project Planner and Proposal Developer** — Participates in brainstorming, identifies system requirements, proposes features, and helps prepare the project proposal. |
 | DAVEY JAMES A. KHEE | **System Analyst and Requirements Planner** — Collaborates on brainstorming, analyzes the problems the system aims to solve, plans system features, and helps define project requirements. |
 | JANJOE CARL C. VILLAQUER | **UI/UX Prototype Support, and System Flow Designer** — Designs the interface layout, creates the system prototype, and develops system flowcharts to illustrate application workflows, navigation, and processes. |
