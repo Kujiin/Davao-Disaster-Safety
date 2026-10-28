@@ -11,7 +11,6 @@ Davao Disaster Safety (DDS) is a Java desktop application designed to help track
 | DAVEY JAMES A. KHEE | **System Analyst and Requirements Planner** — Collaborates on brainstorming, analyzes the problems the system aims to solve, plans system features, and helps define project requirements. |
 | JANJOE CARL C. VILLAQUER | **UI/UX Prototype Support, and System Flow Designer** — Designs the interface layout, creates the system prototype, and develops system flowcharts to illustrate application workflows, navigation, and processes. |
 
-*Replace the placeholders with the actual names of all team members. Contributions should reflect the work each member performed.*
 
 ## Features
 
